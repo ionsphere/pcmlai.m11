@@ -2,6 +2,9 @@
 
 # Analysis of Used cars data
 
+Given [the dataset](data/vehicles.csv) we can conclude the following findings.
+Full research can be found in [the notebook](prompt_II.ipynb) (possible [anaconda localhost](http://localhost:8889/lab/tree/pcmlai.m11/prompt_II.ipynb?))
+
 Even though the analyzed dataset had predominantly California data, analysis shows that we can ignore state specifics and consider other features dictating the vehicle pricing:
 ![Chart with price distribution per state](images/per_state_prices.png)
 
